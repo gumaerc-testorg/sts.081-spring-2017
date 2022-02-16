@@ -2,15 +2,23 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Class 8, Part 1: DARPA as the Connected Model in the Innovation System & Government-Private
   Sector Interaction and the Example of Computing'
 uid: 8fd42a10-5f09-1051-36fc-ee527ffe4503
 video_files:
   archive_url: https://archive.org/download/MITSTS.081S17/MITSTS_081S17_Class08_1_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/7460cd24daef577f831936c0c869cb12_44z4NAj-dEw.vtt
+  video_captions_file: /courses/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/7460cd24daef577f831936c0c869cb12_44z4NAj-dEw.vtt
   video_thumbnail_file: https://img.youtube.com/vi/44z4NAj-dEw/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/99a8d67a202b25ca5c38b0880e2dcaf1_44z4NAj-dEw.pdf
+  video_transcript_file: /courses/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/99a8d67a202b25ca5c38b0880e2dcaf1_44z4NAj-dEw.pdf
 video_metadata:
   youtube_id: 44z4NAj-dEw
 ---

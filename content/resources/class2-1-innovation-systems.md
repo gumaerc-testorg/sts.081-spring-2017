@@ -2,15 +2,23 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Class 2, Part 1: Innovation Systems and Direct/Indirect Elements in the Innovation
   Ecosystem'
 uid: 18ce03c4-d4bf-8dc9-fc37-da8959e63c9c
 video_files:
   archive_url: https://archive.org/download/MITSTS.081S17/MITSTS_081S17_Class02_1_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/3f6adb5c91315b32be0d8333d2b61011_Qo2B2y6cLf4.vtt
+  video_captions_file: /courses/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/3f6adb5c91315b32be0d8333d2b61011_Qo2B2y6cLf4.vtt
   video_thumbnail_file: https://img.youtube.com/vi/Qo2B2y6cLf4/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/305176fc2ffa05c1e6e590bf8a2b8d98_Qo2B2y6cLf4.pdf
+  video_transcript_file: /courses/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/305176fc2ffa05c1e6e590bf8a2b8d98_Qo2B2y6cLf4.pdf
 video_metadata:
   youtube_id: Qo2B2y6cLf4
 ---

@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Class 10, Part 2: The Challenge of Energy Technology Transformation'
 uid: 1c6a3682-559f-9acd-a9c3-430086edb04d
 video_files:
   archive_url: https://archive.org/download/MITSTS.081S17/MITSTS_081S17_Class10_2_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/1c1e9ee95753587e87833d1ccb5687a2_AGFamePtVUI.vtt
+  video_captions_file: /courses/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/1c1e9ee95753587e87833d1ccb5687a2_AGFamePtVUI.vtt
   video_thumbnail_file: https://img.youtube.com/vi/AGFamePtVUI/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/8f972a5e60e15b426f53ab5262c4e489_AGFamePtVUI.pdf
+  video_transcript_file: /courses/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/8f972a5e60e15b426f53ab5262c4e489_AGFamePtVUI.pdf
 video_metadata:
   youtube_id: AGFamePtVUI
 ---

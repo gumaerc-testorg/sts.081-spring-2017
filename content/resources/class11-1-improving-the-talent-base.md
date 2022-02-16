@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Class 11, Part 1: Improving the Talent Base & New Education and Training Models'
 uid: a65d0e9f-6638-f881-1359-038705d9a0e7
 video_files:
   archive_url: https://archive.org/download/MITSTS.081S17/MITSTS_081S17_Class11_1_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/30df3c8fb94a5064b9037705015a4ee7_cvBIpLYtj1U.vtt
+  video_captions_file: /courses/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/30df3c8fb94a5064b9037705015a4ee7_cvBIpLYtj1U.vtt
   video_thumbnail_file: https://img.youtube.com/vi/cvBIpLYtj1U/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/2161a4de9d1fe1f08b56f4ba0b7faa48_cvBIpLYtj1U.pdf
+  video_transcript_file: /courses/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/2161a4de9d1fe1f08b56f4ba0b7faa48_cvBIpLYtj1U.pdf
 video_metadata:
   youtube_id: cvBIpLYtj1U
 ---

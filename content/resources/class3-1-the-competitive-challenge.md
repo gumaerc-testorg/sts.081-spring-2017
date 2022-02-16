@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Class 3, Part 1: The Competitive Challenge to U.S. Manufacturing'
 uid: 04e45292-68fd-a1ce-ad04-fe695a60ead1
 video_files:
   archive_url: https://archive.org/download/MITSTS.081S17/MITSTS_081S17_Class03_1_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/a6afe1a1ab6e5ca6bc84ab772ba16713_lemfZDGJQaQ.vtt
+  video_captions_file: /courses/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/a6afe1a1ab6e5ca6bc84ab772ba16713_lemfZDGJQaQ.vtt
   video_thumbnail_file: https://img.youtube.com/vi/lemfZDGJQaQ/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/99cd92f10153d8fd37d4524a38778fe9_lemfZDGJQaQ.pdf
+  video_transcript_file: /courses/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/99cd92f10153d8fd37d4524a38778fe9_lemfZDGJQaQ.pdf
 video_metadata:
   youtube_id: lemfZDGJQaQ
 ---

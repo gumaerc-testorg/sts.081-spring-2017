@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Class 1, Part 2: Economic Growth Theory and the Direct Elements in Innovation'
 uid: 6cc2afa7-9aaa-5139-e298-aff4bdccdad2
 video_files:
   archive_url: https://archive.org/download/MITSTS.081S17/MITSTS_081S17_Class01_2_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/1b3079962b4156d6bfddd83272a05d97_n0QLcw-CHmk.vtt
+  video_captions_file: /courses/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/1b3079962b4156d6bfddd83272a05d97_n0QLcw-CHmk.vtt
   video_thumbnail_file: https://img.youtube.com/vi/n0QLcw-CHmk/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/5878d9d0ab116513ba3c7a010f554913_n0QLcw-CHmk.pdf
+  video_transcript_file: /courses/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/5878d9d0ab116513ba3c7a010f554913_n0QLcw-CHmk.pdf
 video_metadata:
   youtube_id: n0QLcw-CHmk
 ---

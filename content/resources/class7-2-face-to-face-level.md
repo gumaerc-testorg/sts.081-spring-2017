@@ -2,15 +2,23 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Class 7, Part 2: The Organization of Innovation Systems at the Face-to-Face
   Level'
 uid: d1681a77-43a6-90e0-a7a2-aab47734469c
 video_files:
   archive_url: https://archive.org/download/MITSTS.081S17/MITSTS_081S17_Class07_2_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/1b24113c659e5236abbf2652480c0d4d_dCw-x9ZOljY.vtt
+  video_captions_file: /courses/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/1b24113c659e5236abbf2652480c0d4d_dCw-x9ZOljY.vtt
   video_thumbnail_file: https://img.youtube.com/vi/dCw-x9ZOljY/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/9f9e7a15cae634d33180bc027141bea7_dCw-x9ZOljY.pdf
+  video_transcript_file: /courses/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/9f9e7a15cae634d33180bc027141bea7_dCw-x9ZOljY.pdf
 video_metadata:
   youtube_id: dCw-x9ZOljY
 ---

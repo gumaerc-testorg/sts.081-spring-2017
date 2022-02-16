@@ -2,15 +2,23 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Class 6, Part 2: Crossing the "Valley of Death" Between Research and Development
   & The Public-Private Partnership Approach'
 uid: 3774a45c-bf19-7790-5d95-4ac342cfea62
 video_files:
   archive_url: https://archive.org/download/MITSTS.081S17/MITSTS_081S17_Class06_2_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/33e8014496e0584ea1eca6348fed0f0b_H-ym4rSciTM.vtt
+  video_captions_file: /courses/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/33e8014496e0584ea1eca6348fed0f0b_H-ym4rSciTM.vtt
   video_thumbnail_file: https://img.youtube.com/vi/H-ym4rSciTM/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/28db143c62a43603ec7cd99078db6b4e_H-ym4rSciTM.pdf
+  video_transcript_file: /courses/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/28db143c62a43603ec7cd99078db6b4e_H-ym4rSciTM.pdf
 video_metadata:
   youtube_id: H-ym4rSciTM
 ---

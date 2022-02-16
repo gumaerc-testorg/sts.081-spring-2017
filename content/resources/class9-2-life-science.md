@@ -2,15 +2,23 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Class 9, Part 2: The Life Science R&D Model & National Institutes of Health
   (NIH)'
 uid: ee9cdaa9-016b-60b9-e492-81bb85ea59ae
 video_files:
   archive_url: https://archive.org/download/MITSTS.081S17/MITSTS_081S17_Class09_2_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/3dd97c809dd4540087c0c0b942063380_UFu_shvdwlE.vtt
+  video_captions_file: /courses/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/3dd97c809dd4540087c0c0b942063380_UFu_shvdwlE.vtt
   video_thumbnail_file: https://img.youtube.com/vi/UFu_shvdwlE/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/f5c2041ed7bf5e40f5d2cdac9d826271_UFu_shvdwlE.pdf
+  video_transcript_file: /courses/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/f5c2041ed7bf5e40f5d2cdac9d826271_UFu_shvdwlE.pdf
 video_metadata:
   youtube_id: UFu_shvdwlE
 ---

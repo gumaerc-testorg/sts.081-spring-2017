@@ -2,15 +2,23 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Class 4, Part 2: The Challenge from Globalization for Advanced Manufacturing
   and New Services'
 uid: bc7f3269-f8c4-ed46-a270-7e83433fa042
 video_files:
   archive_url: https://archive.org/download/MITSTS.081S17/MITSTS_081S17_Class04_2_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/a9e3bddc3366594297bc85b770319958_YcxHJcGU8u0.vtt
+  video_captions_file: /courses/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/a9e3bddc3366594297bc85b770319958_YcxHJcGU8u0.vtt
   video_thumbnail_file: https://img.youtube.com/vi/YcxHJcGU8u0/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/b9488121d5c736dbc4366ed1e801b8fc_YcxHJcGU8u0.pdf
+  video_transcript_file: /courses/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/b9488121d5c736dbc4366ed1e801b8fc_YcxHJcGU8u0.pdf
 video_metadata:
   youtube_id: YcxHJcGU8u0
 ---

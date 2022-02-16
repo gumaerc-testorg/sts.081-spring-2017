@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Class 12, Part 2: The Future of Work & The Employment-Productivity Debate'
 uid: c93b38e9-084e-11c7-8ad1-e3b4280e63a3
 video_files:
   archive_url: https://archive.org/download/MITSTS.081S17/MITSTS_081S17_Class12_2_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/b29d35cc69e852e4bc9fe5fd2a0e3747_j563wGImp9U.vtt
+  video_captions_file: /courses/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/b29d35cc69e852e4bc9fe5fd2a0e3747_j563wGImp9U.vtt
   video_thumbnail_file: https://img.youtube.com/vi/j563wGImp9U/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/9673fb9f0b275b73d06c061d625f2da4_j563wGImp9U.pdf
+  video_transcript_file: /courses/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/9673fb9f0b275b73d06c061d625f2da4_j563wGImp9U.pdf
 video_metadata:
   youtube_id: j563wGImp9U
 ---
