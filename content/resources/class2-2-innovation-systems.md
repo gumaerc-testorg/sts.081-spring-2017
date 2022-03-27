@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Class 2, Part 2: Innovation Systems and Direct/Indirect Elements in the Innovation
   Ecosystem'
 uid: 5b24db96-5923-6b39-77cc-11acf7911da0

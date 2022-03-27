@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Class 8, Part 1: DARPA as the Connected Model in the Innovation System & Government-Private
   Sector Interaction and the Example of Computing'
 uid: 8fd42a10-5f09-1051-36fc-ee527ffe4503

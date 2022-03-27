@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Class 6, Part 1: Crossing the "Valley of Death" Between Research and Development
   & The Public-Private Partnership Approach'
 uid: 1bb2a4b9-dda6-0a90-068f-c7303889669d

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: bbeb8d3f-0b93-7ac8-08ab-68a8f5f78fea
 resourcetype: Document
 title: STS.081J / 17.395J Innovation Systems for Science, Technology, Energy, Manufacturing,
   and Health, Lecture 2 Elements in the Innovation System, Direct and Indirect

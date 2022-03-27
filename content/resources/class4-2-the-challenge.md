@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Class 4, Part 2: The Challenge from Globalization for Advanced Manufacturing
   and New Services'
 uid: bc7f3269-f8c4-ed46-a270-7e83433fa042

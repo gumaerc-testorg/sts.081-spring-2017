@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Class 3, Part 1: The Competitive Challenge to U.S. Manufacturing'
 uid: 04e45292-68fd-a1ce-ad04-fe695a60ead1
 video_files:

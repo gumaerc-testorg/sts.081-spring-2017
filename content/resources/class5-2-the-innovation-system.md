@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Class 5, Part 2: The Innovation System at the Institutional Level & The Organization
   of Federal Science Support'
 uid: 9937707e-1c45-f74f-2bc2-291ca6ae8540

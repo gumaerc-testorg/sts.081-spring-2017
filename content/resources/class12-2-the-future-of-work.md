@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Class 12, Part 2: The Future of Work & The Employment-Productivity Debate'
 uid: c93b38e9-084e-11c7-8ad1-e3b4280e63a3
 video_files:

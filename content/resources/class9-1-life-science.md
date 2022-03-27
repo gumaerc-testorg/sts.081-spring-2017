@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Class 9, Part 1: The Life Science R&D Model & National Institutes of Health
   (NIH)'
 uid: 599080bc-6328-d0b7-0fa0-e2d62b9222ba

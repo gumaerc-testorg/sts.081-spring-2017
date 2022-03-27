@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: bbeb8d3f-0b93-7ac8-08ab-68a8f5f78fea
 resourcetype: Document
 title: STS.081J / 17.935J Innovation Systems for Science, Technology, Energy, Manufacturing
   and Health, Lecture 1 Economic Growth Theory and the Innovation System

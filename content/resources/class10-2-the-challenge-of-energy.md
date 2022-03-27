@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Class 10, Part 2: The Challenge of Energy Technology Transformation'
 uid: 1c6a3682-559f-9acd-a9c3-430086edb04d
 video_files:

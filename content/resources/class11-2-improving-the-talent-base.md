@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Class 11, Part 2: Improving the Talent Base & New Education and Training Models'
 uid: 1123b997-1323-e923-3c7c-f7e1a5d80475
 video_files:

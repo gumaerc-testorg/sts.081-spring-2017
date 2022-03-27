@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Class 7, Part 1: The Organization of Innovation Systems at the Face-to-Face
   Level'
 uid: bd0f604a-d5c6-8657-94e5-e4a7275f049b

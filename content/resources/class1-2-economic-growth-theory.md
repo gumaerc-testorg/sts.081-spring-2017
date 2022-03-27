@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Class 1, Part 2: Economic Growth Theory and the Direct Elements in Innovation'
 uid: 6cc2afa7-9aaa-5139-e298-aff4bdccdad2
 video_files:
