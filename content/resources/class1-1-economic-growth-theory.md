@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +29,4 @@ video_metadata:
 **Description:** Class 1 reviews two classic readings (by Solow and Romer) in economic growth theory, turns to a discussion of the innovation-related basis for growth in the 90’s, and notes through NSF data the effect of the economics of globalization and the comparative efforts of other competitor nations. Two elements of direct innovation policy will be introduced: R&D funding, (including the physical science R&D funding challenge) and science and technology education levels, with international comparisons. An investment firm paper will suggest how businesses look at these innovation issues. Part one of two.
 
 **Instructor:** William Bonvillian
+

@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -28,3 +30,4 @@ video_metadata:
 **Description:** Class 9 will note the organizational origins of NIH in the fundamental research model, and discuss the implications of that model for the role NIH plays in the bio-medical innovation system. Key topics, including NIH's role in training life science researchers for university and industry, the origins of the human genome project, the rise of the biotech sector around a new computational science model, the role of biotech firms in the development stage, and the power of the patent system in life sciences, will be discussed. NIH problems—in pursuing cross-disciplinary, translational, and physical science-based research, with organizational stovepipes, and in attacking niche and small disease population diseases—will also be reviewed. The genomics initiative will be reviewed as a particular case study on organizational issues. Proposals from the Institute of Medicine and others for NIH reorganization will be discussed.  Problems in developing therapies for infectious disease and with developing new approaches to drug validation and approval will be discussed through reports from the Infectious Diseases Society and FDA. The class will also review recommendations for system reform from PCAST and a “white paper” on integrating life with engineering and physical science as a promising new R&D and innovation model. Part two of two.
 
 **Instructor:** William Bonvillian
+

@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +29,4 @@ video_metadata:
 **Description:** Class 3 will first review the nature of the competitiveness debate of the 80’s and early 90’s, which focused on the manufacturing sector, particularly on process efficiency and quality. The role of manufacturing in the U.S. economy will be discussed, including its declining share of the economy. The nature of the international competition in manufacturing and the strategies of other international competitors, both in the 80’s and now, including in advanced manufacturing sectors, will be reviewed in detail. Approaches in Japan and Korea will be explored. The hierarchical, layered and networked models for industrial organization will be noted along with the “disruptive technologies” approach to innovation, as well as corresponding possible approaches for manufacturing process technology productivity breakthroughs. Part one of two.
 
 **Instructor:** William Bonvillian
+

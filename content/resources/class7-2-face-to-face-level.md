@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -30,3 +32,4 @@ video_metadata:
 NOTE: This class will be student-led, organized with a larger group of students (not just two discussion leaders) presenting the particular readings, and with less of a lecture format. There is a longer reading list, so students don’t need to read all the readings—but all students should read the following three readings, as follows: the William Rosen book sections, the Warren Bennis/Patricia Biederman closing chapter on pp. 196–218, and the Edgar Schein book sections, in that order. Then students should, in addition, select and read about any three of the six innovation “great groups” listed below the first three readings. A number of students will be asked to present on particular innovation groups. Part two of two.
 
 **Instructor:** William Bonvillian
+

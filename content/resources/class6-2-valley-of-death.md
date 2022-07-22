@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -28,3 +30,4 @@ video_metadata:
 **Description:** Class 6, picking up on the innovation organization issues discussed in the prior class, will discuss the longstanding problem of the “valley of death”, i.e., of moving technology from the research stage through the development stage, and discuss the pipeline (linear) model verses dynamic model for research and development. The class will review the very different organizational model of defense R&D compared to other federal science and technology mission agencies. More recent models for crossing the “valley of death” will be briefly noted, including the biotech model, NIST’s Advanced Technology Program (ATP now ended), the Small Business Innovation and Research Program (SBIR), NIST’s state-based Manufacturing Extension Program (MEP), and the CIA’s In-Q-Tel. The class will close with a discussion of overall innovation models and overcoming the difficulty of innovating in complex legacy sectors. Part two of two.
 
 **Instructor:** William Bonvillian
+

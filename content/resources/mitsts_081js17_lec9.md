@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/6626b20d2ec39d4b42a1a6b2ca0b078d_MITSTS_081JS17_lec9.pdf
+file: /courses/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/6626b20d2ec39d4b42a1a6b2ca0b078d_MITSTS_081JS17_lec9.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

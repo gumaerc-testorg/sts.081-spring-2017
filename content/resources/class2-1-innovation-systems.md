@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -30,3 +32,4 @@ video_metadata:
 The class will also review innovation wave theory (“Kondratiev Waves”). The World Economic Forum’s latest national competitiveness rankings will be used to look at a range of competitiveness factors. Particular “indirect elements” will receive focus, including the ongoing debate over how the accounting system values innovation, the ramifications of current fiscal policy, and the role of venture and angel capital. The lack of innovation metrics will be reviewed. The class will also discuss policy justifications for governmental verses private sector roles, including the long-standing debate over industrial policy, and the “market failure” and the “public value” (as pursued by science and technology mission agencies) justifications for a public role. Part one of two.
 
 **Instructor:** William Bonvillian
+

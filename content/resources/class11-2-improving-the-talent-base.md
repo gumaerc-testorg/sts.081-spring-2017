@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -29,3 +31,4 @@ video_metadata:
 At the close of the session there will be a wrap-up summary of key concepts that the course was based on. Part two of two.
 
 **Instructor:** William Bonvillian
+

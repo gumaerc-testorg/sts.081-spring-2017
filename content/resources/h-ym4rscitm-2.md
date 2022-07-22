@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/33e8014496e0584ea1eca6348fed0f0b_H-ym4rSciTM.vtt
+file: /courses/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/33e8014496e0584ea1eca6348fed0f0b_H-ym4rSciTM.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

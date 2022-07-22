@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -28,3 +30,4 @@ video_metadata:
 **Description:** Class 4 will first explore a noted Samuelson article on free trade theory and comparative advantage in innovation. It will review advanced US manufacturing capability concerns in detail, and also look at services, noting the dominant role of services in the U.S. economy.  The debate on whether the economy is facing a major competitive challenge to advanced technology-based manufacturing and  services that are tied to it, and to innovation capacity, will be examined, including a discussion of emerging manufacturing innovation models in China. The class will close on the importance of the growing international competition in software development which will also be reviewed. Part one of two.
 
 **Instructor:** William Bonvillian
+

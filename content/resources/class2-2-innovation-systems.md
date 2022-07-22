@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -28,3 +30,4 @@ video_metadata:
 **Description:** Class 2 will discuss how innovation is organized into a system, and the elements and actors in this system. It will also include a summary of indirect or implicit elements in this system. These include, on the governmental side, fiscal policy, tax policy, standards, technology transfer policies, trade policy, procurement, intellectual property, the legal system, regulation, antitrust, export controls, etc. On the private sector side, these include markets, management approaches including support for incremental verses radical innovation, accounting systems and information transparency, business models, and venture and angel capital, etc. Part two of two.
 
 **Instructor:** William Bonvillian
+

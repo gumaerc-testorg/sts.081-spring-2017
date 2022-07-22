@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/3b628a78aa8f57ff1fac4d2d959d4719_sts-081js17-th.jpeg
+file: /courses/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/3b628a78aa8f57ff1fac4d2d959d4719_sts-081js17-th.jpeg
 file_type: image/jpeg
 image_metadata:
   caption: "The Xerox Parc Alto was the first real desktop to make computing \u201C\
@@ -13,6 +13,7 @@ image_metadata:
   credit: This image is in the [public domain](https://commons.wikimedia.org/wiki/File:Xerox_Alto_mit_Rechner.JPG).
   image-alt: Photograph of early computer with keyboard and monitor.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: sts-081js17-th.jpeg

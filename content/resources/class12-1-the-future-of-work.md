@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +29,4 @@ video_metadata:
 **Description:** This class will discuss the ongoing debate over the “future of work.” Has the IT revolution advanced to the point that its productivity gains will be creating large scale unemployment? The class will examine arguments advancing this argument, including that the nature of work has fundamentally shifted with the entry of IT at scale into both services and production sectors. It will then look at the response by a prominent economist that the linkage between productivity gains and rising net employment over time, in place since the industrial revolution, has indeed not significantly shifted. It will also look at the linkage between education and higher-skill employment, and the argument that this is a key explanation for rising income inequality. The class will also look at the issue of "jobless innovation" and its linkage to fundamental problems in the production sector, and at a new book arguing that fully autonomous robotics is unlikely, and that robotics will continue for a long time on the path of deep integration with people, where robotics is an extension of human capabilities not a displacer of those. Part one of two.
 
 **Instructor:** William Bonvillian
+

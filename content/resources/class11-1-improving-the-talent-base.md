@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +29,4 @@ video_metadata:
 **Description:** Class 11 will consider overall science education trend data, and the reasons for the decline in college level science graduates, as well as graduate students, particularly in the physical sciences. A recent summary by Norman Augustine for the National Academies summarizes US talent gap problems. The class will then examine studies by economists Paul Romer and Richard Freeman in fixing the basis for these trends. It will also review an economic study suggesting a link between education attainment and growing income differentiation. The class will review an appeal by economist William Bamol for a new kind of “innovation education.” The class will also discuss reforms to teaching science education and new approaches to IT-based education models. Part one of two.
 
 **Instructor:** William Bonvillian
+
