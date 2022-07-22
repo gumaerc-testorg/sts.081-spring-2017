@@ -1,16 +1,28 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Class 5, Part 2: The Innovation System at the Institutional Level & The Organization
   of Federal Science Support'
 uid: 9937707e-1c45-f74f-2bc2-291ca6ae8540
 video_files:
   archive_url: https://archive.org/download/MITSTS.081S17/MITSTS_081S17_Class05_2_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/bc9088e7bf145f0d8e35812feba9dce1_UbwGHnn3B_M.vtt
+  video_captions_file: /courses/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/bc9088e7bf145f0d8e35812feba9dce1_UbwGHnn3B_M.vtt
   video_thumbnail_file: https://img.youtube.com/vi/UbwGHnn3B_M/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/5c7cd008af6b08730cf6a3698e690515_UbwGHnn3B_M.pdf
+  video_transcript_file: /courses/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/5c7cd008af6b08730cf6a3698e690515_UbwGHnn3B_M.pdf
 video_metadata:
   youtube_id: UbwGHnn3B_M
 ---
@@ -26,3 +38,4 @@ video_metadata:
 The class will close with a classic critique of weaknesses in the Bush model.  Part two of two.
 
 **Instructor:** William Bonvillian
+
