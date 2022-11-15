@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This contains the instructions for the assignments of the one page reading
+  analyses and the final research paper.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -10,7 +12,7 @@ uid: 53c3529f-92b1-0c2b-33e2-4ed0c28cb376
 One-Page Reading Summaries
 --------------------------
 
-Significant time for student participation and discussions will be built into each class. Students will be expected to read the articles or chapters listed for each class, as listed under [Readings]({{< baseurl >}}/pages/readings). All students for each class will email at least a day in advance to the instructor and student discussion leaders, a one-page summary in bullet-point outline form of all the readings for that class—please put your name, date and the class number on the top. This summary should list three or four key points about each reading and below that list two or three key questions about each reading.
+Significant time for student participation and discussions will be built into each class. Students will be expected to read the articles or chapters listed for each class, as listed under {{% resource_link bb62bd71-d97b-4f0f-e759-17ff1be5e973 "Readings" %}}. All students for each class will email at least a day in advance to the instructor and student discussion leaders, a one-page summary in bullet-point outline form of all the readings for that class—please put your name, date and the class number on the top. This summary should list three or four key points about each reading and below that list two or three key questions about each reading.
 
 In addition, particular students, rotating around the class, using the students’ one-page summaries, will be asked to lead class Q&A discussion on the readings for each class—so each class will have one or two student discussion leaders. Starting with the first class, please submit your one-page reading summaries emailed to the instructor in advance of class; the instructor will go over the discussion leader system at the first class and name initial discussion leaders, starting with the second class. So starting with the second class, please email your reading summaries to both the instructor and discussion leaders. The discussion leaders will use your questions in leading the class discussions of the reading.
 
