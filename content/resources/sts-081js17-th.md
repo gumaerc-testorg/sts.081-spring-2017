@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/3b628a78aa8f57ff1fac4d2d959d4719_sts-081js17-th.jpeg
+file_size: 6020
 file_type: image/jpeg
 image_metadata:
   caption: "The Xerox Parc Alto was the first real desktop to make computing \u201C\
@@ -9,8 +10,10 @@ image_metadata:
     \ connection, the first mouse, one of the first video games, a windows screen\
     \ arrangement, a bitmap editor, and an early paint program. While Xerox famously\
     \ failed to commercialize it, Steve Jobs saw its remarkable features and incorporated\
-    \ them into the Mac. This image is in the [public domain](https://commons.wikimedia.org/wiki/File:Xerox_Alto_mit_Rechner.JPG)."
-  credit: This image is in the [public domain](https://commons.wikimedia.org/wiki/File:Xerox_Alto_mit_Rechner.JPG).
+    \ them into the Mac. This image is in the {{% resource_link \"360f57eb-e77d-45c9-a5ec-39fa3b2cb671\"\
+    \ \"public domain\" %}}."
+  credit: This image is in the {{% resource_link "360f57eb-e77d-45c9-a5ec-39fa3b2cb671"
+    "public domain" %}}.
   image-alt: Photograph of early computer with keyboard and monitor.
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
