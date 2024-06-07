@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/19c09d92c93b5ac5846dd8662df36d75_on1rmY3Tw5U.vtt
+file_size: 44348
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
