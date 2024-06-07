@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/71bb4d1c2cfc6fb39906e35f2b6f7051_MITSFS_081JS17_lec6.pdf
+file_size: 3454080
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
