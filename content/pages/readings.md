@@ -74,11 +74,11 @@ Lynn, Barry. *End of the Line*. Doubleday, 2005, pp. 1–18. ISBN: 9780385510240
 
 Berger, Suzanne. *How We Compete: What Companies Around the World Are Doing to Make it in Today's Global Economy*. Crown Business, 2005, pp. 251–277. ISBN: 9780385513593.
 
-Fong, Glenn. "[Follower at the Frontier: International Competition and Japanese Industrial Policy (PDF)](http://my.t-bird.edu/files/personalfiles/134802/ISQ.pdf)." *International Studies Quarterly* 42, 3 (1998): 339–266.
+Fong, Glenn. "[Follower at the Frontier: International Competition and Japanese Industrial Policy](https://doi.org/10.1111/1468-2478.00085)." *International Studies Quarterly* 42, 3 (1998): 339–266.
 
 Kim, Linsu. *Imitation to Innovation: The Dynamics of Korea's Technological Learning*. Harvard Business Review, 1997, pp. 192–213, 234–243. ISBN: 9780875845746.
 
-Moses, Joel. "[Three Design Methodologies, Their Associated Organizational Structures, and Their Relationship to Various Fields](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.131.9275)." Proceedings of Engineering Systems Symposium MIT, 2004.
+Moses, Joel. "Three Design Methodologies, Their Associated Organizational Structures, and Their Relationship to Various Fields." Proceedings of Engineering Systems Symposium MIT, 2004.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -108,7 +108,7 @@ President's Council of Advisors on Science and Technology. "[Report to the Presi
 The Innovation System at the Institutional Level: The Organization of Federal Science Support
 {{< tdclose >}}{{< tdopen >}}
 
-Hart, David. *Forged Consensus: Science, Technology, and Economic Policy in the United States, 1921–1953*. Princeton University Press, 2010, pp. 17–29. ISBN: 9780691146546. \[Preview with [Google Books](https://books.google.com/books?id=EqUuvUdrs_MC&lpg=PP1&dq=David%20Hart%2C%20Forged%20Consensus%20(Princeton%20Univ.%20Press%2C%201998)&pg=PA17#v=onepage&q&f=false)\]
+Hart, David. *Forged Consensus: Science, Technology, and Economic Policy in the United States, 1921–1953*. Princeton University Press, 2010, pp. 17–29. ISBN: 9780691146546. \[Preview with [Google Books](https://books.google.com/books?id=EqUuvUdrs_MC&lpg=PP1&dq=David%20Hart%2C%20Forged%20Consensus%20%28Princeton%20Univ.%20Press%2C%201998%29&pg=PA17#v=onepage&q&f=false)\]
 
 Conant, Jennet. *Tuxedo Park: A Wall Street Tycoon and the Secret Palace of Science That Changed the Course of World War II*. Simon & Schuster, 2003, pp. 178–289. ISBN: 9780684872889.
 
@@ -132,7 +132,7 @@ Ruttan, Vernon. *Is War Necessary for Economic Growth?: Military Procurement and
 
 Fong, Glenn. "[Breaking New Ground or Breaking the Rules: Strategic Reorientation in U.S. Industrial Policy (PDF)](https://www.mitpressjournals.org/doi/pdf/10.1162/016228800560480)." *International Security* 25, no. 2 (2000): 152–162.
 
-Yannuzzi, Rick. "[In-Q-Tel: A New Partnership Between the CIA and the Private Sector](https://www.cia.gov/library/publications/intelligence-history/in-q-tel)." *Defense Intelligence Journal* 9, no. 1 (2000).
+Yannuzzi, Rick. "In-Q-Tel: A New Partnership Between the CIA and the Private Sector." *Defense Intelligence Journal* 9, no. 1 (2000).
 
 Bonvillian, William. "[The New Model Innovation Agencies: An Overview](https://doi.org/10.1093/scipol/sct059)." *Science and Public Policy* 41, no. 4 (2014): 425–437.
 
@@ -171,7 +171,7 @@ Waldrop, Mitchell M. *The Dream Machine: J.C.R. Licklider and the Revolution Tha
 
 Carleton, Tammy. "[The Value of Vision in Radical Technological Innovation](https://purl.stanford.edu/mk388mb2729)" PhD diss., Stanford University, 2010, pp. 62–116.
 
-Fong, Glenn. "[ARPA Does Windows: The Defense Underpinning of the PC Revolution (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.596.8343&rep=rep1&type=pdf)." *Business and Politics* 3, no. 3 (2001): 213–237.
+Fong, Glenn. "ARPA Does Windows: The Defense Underpinning of the PC Revolution." *Business and Politics* 3, no. 3 (2001): 213–237.
 
 Goodrich, Brandon. "[Computer Networks—The Heralds of Resource Sharing (Arpanet, 1972)](https://www.youtube.com/watch?v=GjZ7ktIlSM0)." YouTube. Jul 8, 2014.
 
@@ -197,7 +197,7 @@ Morrow, Daniel. "Oral History: Dr. J Craig Venter." *Computerworld Honors Founda
 
 President's Council of Advisors on Science and Technology. "[Report to the President on Propelling Innovation in Drug Discovery, Development, and Evaluation (PDF - 2.8MB)](https://www.broadinstitute.org/files/sections/about/PCAST/2012%20pcast-fda.pdf)." Executive Office of the President, 2012, pp. v–xiv.
 
-"[Convergence: The Future of Health](http://www.convergencerevolution.net/2016-report/)." Massachusetts Institute of Technology, 2016.
+"Convergence: The Future of Health." Massachusetts Institute of Technology, 2016.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -237,7 +237,7 @@ Freeman, Richard. "[Does Globalization of the Scientific/Engineering Workforce T
 
 Goldin, Claudia and Lawrence Katz. "[The Future of Inequality (PDF)](https://assets1c.milkeninstitute.org/assets/Publication/MIReview/PDF/26-33mr43.pdf)." *Milken Institute Review*, July 2009: 26–33.
 
-Baumol, William. "[Education for Innovation: Entrepreneurial Breakthroughs Vs. Corporate Incremental Improvements (PDF)](https://www.biu.ac.il/soc/ec/students/teach/554/data/entrpacadbaumol.pdf)." National Bureau of Economic Research, 2004.
+Baumol, William. "Education for Innovation: Entrepreneurial Breakthroughs Vs. Corporate Incremental Improvements (PDF)." National Bureau of Economic Research, 2004.
 
 Wilcox, Karen, Sanjay Sarma, and Philip Lippel. "[Online Education: A Catalyst for Higher Education Reforms (PDF - 5.1MB)](https://oepi.mit.edu/files/2016/09/MIT-Online-Education-Policy-Initiative-April-2016.pdf)." Massachusetts Institute of Technology, 2016.
 
