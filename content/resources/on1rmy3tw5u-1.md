@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/81ff769672d8d30fcab204b39a90e735_on1rmY3Tw5U.pdf
+file: /courses/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/81ff769672d8d30fcab204b39a90e735_on1rmY3Tw5U.pdf
 file_size: 50495
 file_type: application/pdf
 learning_resource_types: []
