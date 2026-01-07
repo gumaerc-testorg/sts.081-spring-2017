@@ -10,10 +10,8 @@ image_metadata:
     \ connection, the first mouse, one of the first video games, a windows screen\
     \ arrangement, a bitmap editor, and an early paint program. While Xerox famously\
     \ failed to commercialize it, Steve Jobs saw its remarkable features and incorporated\
-    \ them into the Mac. This image is in the {{% resource_link \"43b00de8-d6e3-48c4-9e60-6055afc0ff78\"\
-    \ \"public domain\" %}}."
-  credit: This image is in the {{% resource_link "43b00de8-d6e3-48c4-9e60-6055afc0ff78"
-    "public domain" %}}.
+    \ them into the Mac. This image is in the [public domain](https://commons.wikimedia.org/wiki/File:Xerox_Alto_mit_Rechner.JPG)."
+  credit: This image is in the [public domain](https://commons.wikimedia.org/wiki/File:Xerox_Alto_mit_Rechner.JPG).
   image-alt: Photograph of early computer with keyboard and monitor.
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
